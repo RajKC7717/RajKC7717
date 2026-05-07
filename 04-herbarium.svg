@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="A Salutation">
+  <rect width="1200" height="520" fill="#f4ead5"></rect>
+  
+  <text x="60" y="76" font-family="Georgia, serif" font-style="italic" font-size="48" fill="#2b2118"><tspan fill="#a35a3a">❦ </tspan>A Salutation</text>
+  <text x="60" y="106" font-family="ui-monospace, monospace" font-size="13" fill="#5a4b3c" letter-spacing="3">FROM THE DESK OF THE PROTAGONIST · LATE EDITION</text>
+
+  
+  <g transform="translate(60,150)">
+    <rect x="0" y="0" width="4" height="56" fill="#a35a3a"></rect>
+    <text x="22" y="34" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#2b2118">&#34;I develop and design art.&#34;</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="20" fill="#2b2118">
+    <text x="60" y="252">I&#39;m <tspan font-weight="bold">Raaj</tspan> — a <tspan font-style="italic">Design Protagonist</tspan> who lives at the seam where</text>
+    <text x="60" y="282">engineering rigor and art-direction instinct meet. I write code that</text>
+    <text x="60" y="312">ships and craft interfaces that <tspan font-weight="bold">mean</tspan> something. Currently growing</text>
+    <text x="60" y="342">a quiet library of side projects, sharpening fundamentals, and</text>
+    <text x="60" y="372"><tspan font-weight="bold">open to collaboration &amp; full-time opportunities.</tspan></text>
+    <text x="60" y="426" fill="#5a4b3c" font-style="italic">If you have a problem worth solving and a brief worth dignifying,</text>
+    <text x="60" y="452" fill="#a35a3a" text-decoration="underline">pass me a note ↓</text>
+  </g>
+
+  
+  <g transform="translate(740,150)">
+    
+    <defs>
+      <pattern id="hatch" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)">
+        <rect width="8" height="8" fill="#f4ead5"></rect>
+        <rect width="1" height="8" fill="#a35a3a" opacity="0.08"></rect>
+      </pattern>
+    </defs>
+    <rect x="0" y="0" width="400" height="320" fill="url(#hatch)" stroke="#2b2118" stroke-width="2"></rect>
+    <text x="24" y="44" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#a35a3a">FIELD NOTICE</text>
+    <line x1="24" y1="62" x2="376" y2="62" stroke="#2b2118" opacity="0.45"></line>
+    <g font-family="ui-monospace, monospace" font-size="16" fill="#2b2118">
+      <text x="24" y="108">☞   Open to collaborate</text>
+      <text x="24" y="142">☞   Open to hire</text>
+      <text x="24" y="176">☞   Open to a good idea</text>
+    </g>
+    <text x="24" y="244" font-family="Georgia, serif" font-style="italic" font-size="17" fill="#2b2118">Reply postmarked with care.</text>
+    
+    <g transform="translate(310,250)">
+      <rect x="0" y="0" width="68" height="50" fill="none" stroke="#a35a3a" stroke-width="1.5" stroke-dasharray="3 3"></rect>
+      <text x="34" y="22" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" fill="#a35a3a" letter-spacing="2">PRESSED</text>
+      <text x="34" y="38" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#a35a3a">2026</text>
+    </g>
+  </g>
+</svg>

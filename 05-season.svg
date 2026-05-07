@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" width="1200" height="580" role="img" aria-label="A Herbarium of Tools">
+  <rect width="1200" height="580" fill="#f4ead5"></rect>
+  <text x="60" y="76" font-family="Georgia, serif" font-style="italic" font-size="48" fill="#2b2118"><tspan fill="#a35a3a">❦ </tspan>A Herbarium of Tools</text>
+  <text x="60" y="106" font-family="ui-monospace, monospace" font-size="13" fill="#5a4b3c" letter-spacing="3">PRESSED · LABELLED · CULTIVATED DAILY</text>
+  <text x="60" y="148" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#5a4b3c">Each specimen below has been identified, dried, and mounted for the curious reader.</text>
+
+  
+  <g font-family="ui-monospace, monospace" font-size="15" fill="#2b2118">
+    
+    <g transform="translate(60,200)">
+      <rect width="350" height="320" fill="none" stroke="#2b2118" stroke-width="1.5"></rect>
+      <rect x="143" y="-10" width="64" height="18" fill="#e6c27a" opacity="0.65" transform="rotate(-3 175 -1)"></rect>
+      <text x="20" y="40" fill="#4b6043" letter-spacing="3">☘ FRONT-OF-HOUSE</text>
+      <line x1="20" y1="56" x2="330" y2="56" stroke="#2b2118" opacity="0.3" stroke-dasharray="2 3"></line>
+      <g>
+        <text x="20" y="100">React.js</text>      <text x="330" y="100" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">the loom</text>
+        <text x="20" y="148">JavaScript</text>   <text x="330" y="148" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">lingua franca</text>
+        <text x="20" y="196">HTML / CSS</text>   <text x="330" y="196" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">pressed paper</text>
+      </g>
+      <line x1="20" y1="116" x2="330" y2="116" stroke="#2b2118" opacity="0.2" stroke-dasharray="2 3"></line>
+      <line x1="20" y1="164" x2="330" y2="164" stroke="#2b2118" opacity="0.2" stroke-dasharray="2 3"></line>
+    </g>
+    
+    <g transform="translate(425,200)">
+      <rect width="350" height="320" fill="none" stroke="#2b2118" stroke-width="1.5"></rect>
+      <rect x="143" y="-10" width="64" height="18" fill="#e6c27a" opacity="0.65" transform="rotate(-3 175 -1)"></rect>
+      <text x="20" y="40" fill="#4b6043" letter-spacing="3">☘ BACK-OF-HOUSE</text>
+      <line x1="20" y1="56" x2="330" y2="56" stroke="#2b2118" opacity="0.3" stroke-dasharray="2 3"></line>
+      <text x="20" y="100">Node.js</text>     <text x="330" y="100" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">the kiln</text>
+      <text x="20" y="148">Python</text>      <text x="330" y="148" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">the field knife</text>
+      <text x="20" y="196">PostgreSQL</text>  <text x="330" y="196" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">the archive</text>
+      <line x1="20" y1="116" x2="330" y2="116" stroke="#2b2118" opacity="0.2" stroke-dasharray="2 3"></line>
+      <line x1="20" y1="164" x2="330" y2="164" stroke="#2b2118" opacity="0.2" stroke-dasharray="2 3"></line>
+    </g>
+    
+    <g transform="translate(790,200)">
+      <rect width="350" height="320" fill="none" stroke="#2b2118" stroke-width="1.5"></rect>
+      <rect x="143" y="-10" width="64" height="18" fill="#e6c27a" opacity="0.65" transform="rotate(-3 175 -1)"></rect>
+      <text x="20" y="40" fill="#4b6043" letter-spacing="3">☘ DEEP ROOTS</text>
+      <line x1="20" y1="56" x2="330" y2="56" stroke="#2b2118" opacity="0.3" stroke-dasharray="2 3"></line>
+      <text x="20" y="100">C</text>     <text x="330" y="100" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">the soil</text>
+      <text x="20" y="148">C++</text>   <text x="330" y="148" text-anchor="end" font-family="Georgia,serif" font-style="italic" fill="#5a4b3c">the trellis</text>
+      <line x1="20" y1="116" x2="330" y2="116" stroke="#2b2118" opacity="0.2" stroke-dasharray="2 3"></line>
+      <line x1="20" y1="164" x2="330" y2="164" stroke="#2b2118" opacity="0.2" stroke-dasharray="2 3"></line>
+      
+      <g transform="translate(175,260)" stroke="#4b6043" stroke-width="1.4" fill="none">
+        <path d="M0 0 Q 20 -20 0 -40 Q -20 -20 0 0 Z"></path>
+        <line x1="0" y1="0" x2="0" y2="22"></line>
+      </g>
+    </g>
+  </g>
+</svg>
