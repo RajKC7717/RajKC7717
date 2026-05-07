@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- 1 · MASTHEAD -->
-<img src="01-masthead.svg" alt="The Raaj Almanac — A Field Guide for the Design Protagonist" width="100%"/>
+
 
 <br/><br/>
 
