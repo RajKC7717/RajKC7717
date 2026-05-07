@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- 2 · CATALOGUED NOTICE -->
-<img src="readme/02-catalogued.svg" alt="Catalogued · Entry № 7717 · Specimen: Raaj K. C. · Status: Open to Hire" width="100%"/>
+<img src="02-catalogued.svg" alt="Catalogued · Entry № 7717 · Specimen: Raaj K. C. · Status: Open to Hire" width="100%"/>
 
 <br/><br/>
 
