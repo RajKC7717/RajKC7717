@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- 1 · MASTHEAD -->
-<img src="readme/01-masthead.svg" alt="The Raaj Almanac — A Field Guide for the Design Protagonist" width="100%"/>
+<img src="01-masthead.svg" alt="The Raaj Almanac — A Field Guide for the Design Protagonist" width="100%"/>
 
 <br/><br/>
 
@@ -16,12 +16,12 @@
 <br/><br/>
 
 <!-- 3 · SALUTATION + FIELD NOTICE -->
-<img src="readme/03-salutation.svg" alt="A Salutation — I develop and design art." width="100%"/>
+<img src="03-salutation.svg" alt="A Salutation — I develop and design art." width="100%"/>
 
 <br/><br/>
 
 <!-- 4 · HERBARIUM OF TOOLS -->
-<img src="readme/04-herbarium.svg" alt="A Herbarium of Tools — React, Node, Python, JavaScript, C, C++, PostgreSQL" width="100%"/>
+<img src="04-herbarium.svg" alt="A Herbarium of Tools — React, Node, Python, JavaScript, C, C++, PostgreSQL" width="100%"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 <br/>
 
 <!-- 5 · CURRENT SEASON -->
-<img src="readme/05-season.svg" alt="The Current Season — Now Growing & Posted Notices" width="100%"/>
+<img src="05-season.svg" alt="The Current Season — Now Growing & Posted Notices" width="100%"/>
 
 <br/><br/>
 
@@ -68,7 +68,7 @@
 <br/><br/>
 
 <!-- 6 · CORRESPONDENCE -->
-<img src="readme/06-correspondence.svg" alt="Correspondence — Email, LinkedIn, Twitter/X, Portfolio, Mastodon" width="100%"/>
+<img src="06-correspondence.svg" alt="Correspondence — Email, LinkedIn, Twitter/X, Portfolio, Mastodon" width="100%"/>
 
 </div>
 
@@ -86,7 +86,7 @@
 <br/>
 
 <!-- 7 · COLOPHON -->
-<img src="readme/07-colophon.svg" alt="Colophon — © RajKC7717 · MMXXVI · All Seeds Reserved" width="100%"/>
+<img src="07-colophon.svg" alt="Colophon — © RajKC7717 · MMXXVI · All Seeds Reserved" width="100%"/>
 
 <sub><em>This README is a living specimen. Last pressed: see commit history.</em></sub>
 
