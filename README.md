@@ -20,7 +20,7 @@
 
 </div>
 
-<!-- tech badges -->
+<!-- tech badge -->
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-0c1b2e?style=flat-square&logo=react&logoColor=f4ead5&labelColor=1b3a5c"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0c1b2e?style=flat-square&logo=nodedotjs&logoColor=f4ead5&labelColor=2a5c8a"/>
