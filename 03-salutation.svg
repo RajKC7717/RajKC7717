@@ -1,9 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Catalogued notice">
-  <rect width="1200" height="140" fill="#f4ead5"></rect>
-  <g font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="18" fill="#2b2118">
-    <text x="600" y="46" text-anchor="middle">┌─────────────────────────────────────────────────────────────────────────┐</text>
-    <text x="600" y="72" text-anchor="middle">│  CATALOGUED · ENTRY № 7717           FILED UNDER: developer / design  │</text>
-    <text x="600" y="98" text-anchor="middle">│  SPECIMEN ····· Raaj K. C.           STATUS ····· OPEN TO HIRE        │</text>
-    <text x="600" y="124" text-anchor="middle">└─────────────────────────────────────────────────────────────────────────┘</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Skills and Tech Stack">
+  <rect width="1200" height="380" fill="#f4ead5"/>
+  <g transform="translate(1140,50)" fill="none" stroke="#1b3a5c" stroke-width="0.5" opacity="0.18">
+    <circle r="3" fill="#1b3a5c" stroke="none"/>
+    <circle r="8"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(0)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(45)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(90)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(135)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(180)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(225)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(270)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(315)"/>
+    <circle r="26"/>
   </g>
+  <g transform="translate(60,330)" fill="none" stroke="#1b3a5c" stroke-width="0.5" opacity="0.18">
+    <circle r="3" fill="#1b3a5c" stroke="none"/>
+    <circle r="8"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(0)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(45)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(90)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(135)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(180)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(225)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(270)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(315)"/>
+    <circle r="26"/>
+  </g>
+  <text x="60" y="60" font-family="Georgia, serif" font-style="italic" font-size="38" fill="#0c1b2e"><tspan fill="#1b3a5c">&#10022; </tspan>I Build With</text>
+  <text x="60" y="84" font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="12" fill="#3d5a80" letter-spacing="3">CRAFTED WITH INTENT &#183; SHIPPED WITH PRECISION</text>
+  <line x1="60" y1="100" x2="1140" y2="100" stroke="#1b3a5c" stroke-width="0.5" opacity="0.15"/>
+  <g font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="15" fill="#0c1b2e">
+    <text x="80" y="140">&#9758;  React.js</text>
+    <text x="80" y="172">&#9758;  JavaScript</text>
+    <text x="80" y="204">&#9758;  HTML / CSS</text>
+    <text x="80" y="236">&#9758;  Node.js</text>
+  </g>
+  <g font-family="Georgia, serif" font-style="italic" font-size="14" fill="#3d5a80">
+    <text x="280" y="140">&#8212; interfaces that feel alive</text>
+    <text x="280" y="172">&#8212; the thread through everything</text>
+    <text x="280" y="204">&#8212; structured beauty</text>
+    <text x="280" y="236">&#8212; the engine beneath</text>
+  </g>
+  <g font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="15" fill="#0c1b2e">
+    <text x="640" y="140">&#9758;  Python</text>
+    <text x="640" y="172">&#9758;  PostgreSQL</text>
+    <text x="640" y="204">&#9758;  C / C++</text>
+  </g>
+  <g font-family="Georgia, serif" font-style="italic" font-size="14" fill="#3d5a80">
+    <text x="830" y="140">&#8212; clarity in automation</text>
+    <text x="830" y="172">&#8212; data, organized</text>
+    <text x="830" y="204">&#8212; closer to the machine</text>
+  </g>
+  <line x1="60" y1="270" x2="1140" y2="270" stroke="#1b3a5c" stroke-width="0.5" opacity="0.15"/>
+  <text x="600" y="310" font-family="Georgia, serif" font-style="italic" font-size="20" fill="#0c1b2e" text-anchor="middle">&#34;Clean code. Sharp design. Zero shortcuts.&#34;</text>
+  <text x="600" y="340" font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="11" fill="#3d5a80" text-anchor="middle" letter-spacing="2">I DO THINGS CREATIVELY AND PERFECTLY</text>
 </svg>
