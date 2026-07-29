@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--   THE RAAJ'S GITHUB · Profile README                   -->
+<!--   THE RAAJ'S GITHUB · Profile                    -->
 <!--   Navy & Cream palette · Mandala art                    -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
