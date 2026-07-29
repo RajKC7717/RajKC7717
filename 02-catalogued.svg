@@ -1,52 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="The Raaj Almanac — masthead">
-  <defs>
-    <pattern id="grain" x="0" y="0" width="3" height="3" patternUnits="userSpaceOnUse">
-      <rect width="3" height="3" fill="#f4ead5"></rect>
-      <circle cx="0.6" cy="0.6" r="0.4" fill="#2b2118" opacity="0.05"></circle>
-      <circle cx="2.2" cy="2.0" r="0.35" fill="#2b2118" opacity="0.04"></circle>
-    </pattern>
-  </defs>
-  <rect width="1200" height="360" fill="url(#grain)"></rect>
-  
-  <g stroke="#2b2118" stroke-width="1.2" fill="none" opacity="0.6">
-    <path d="M14 14 h16 M14 14 v16"></path>
-    <path d="M1186 14 h-16 M1186 14 v16"></path>
-    <path d="M14 346 h16 M14 346 v-16"></path>
-    <path d="M1186 346 h-16 M1186 346 v-16"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="A Developer, A Designer, Open to Hire">
+  <rect width="1200" height="180" fill="#f4ead5"/>
+  <g transform="translate(50,50)" fill="none" stroke="#1b3a5c" stroke-width="0.5" opacity="0.2">
+    <circle r="3" fill="#1b3a5c" stroke="none"/>
+    <circle r="8"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(0)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(45)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(90)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(135)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(180)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(225)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(270)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(315)"/>
+    <circle r="26"/>
   </g>
-  
-  <g font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="14" fill="#2b2118" letter-spacing="2.4">
-    <text x="60" y="60">VOL. I · NO. 01</text>
-    <text x="600" y="60" text-anchor="middle">PRINTED IN TWO COLOURS · BRICK &amp; MOSS</text>
-    <text x="1140" y="60" text-anchor="end">EST. MMXXVI</text>
+  <g transform="translate(1150,130)" fill="none" stroke="#1b3a5c" stroke-width="0.5" opacity="0.2">
+    <circle r="3" fill="#1b3a5c" stroke="none"/>
+    <circle r="8"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(0)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(45)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(90)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(135)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(180)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(225)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(270)"/>
+    <path d="M0,-12 C2.5,-16 2.5,-20 0,-22 C-2.5,-20 -2.5,-16 0,-12Z" transform="rotate(315)"/>
+    <circle r="26"/>
   </g>
-  
-  <rect x="60" y="74" width="1080" height="2.5" fill="#2b2118"></rect>
-  <rect x="60" y="80" width="1080" height="1" fill="#2b2118"></rect>
-  
-  <text x="600" y="200" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" font-size="108" fill="#2b2118" text-anchor="middle">The Raaj Almanac</text>
-  <text x="600" y="246" font-family="Georgia, serif" font-size="22" fill="#a35a3a" text-anchor="middle" letter-spacing="8">— A FIELD GUIDE FOR THE DESIGN PROTAGONIST —</text>
-  
-  <g transform="translate(600,288)" stroke="#4b6043" stroke-width="1.8" fill="none" stroke-linecap="round">
-    <g transform="translate(-180,0)">
-      <path d="M0 0 Q 40 -16 80 -28 T 160 -34"></path>
-      <path d="M30 -10 q 6 -16 -2 -22"></path>
-      <path d="M60 -20 q 8 -18 0 -26"></path>
-      <path d="M100 -28 q 8 -18 0 -26"></path>
-      <path d="M30 -10 q -6 10 -14 12"></path>
-      <path d="M60 -20 q -6 12 -14 14"></path>
-    </g>
-    <circle cx="0" cy="-16" r="4" fill="#e6c27a" stroke="none"></circle>
-    <g transform="translate(180,0) scale(-1,1)">
-      <path d="M0 0 Q 40 -16 80 -28 T 160 -34"></path>
-      <path d="M30 -10 q 6 -16 -2 -22"></path>
-      <path d="M60 -20 q 8 -18 0 -26"></path>
-      <path d="M100 -28 q 8 -18 0 -26"></path>
-      <path d="M30 -10 q -6 10 -14 12"></path>
-      <path d="M60 -20 q -6 12 -14 14"></path>
-    </g>
-  </g>
-  
-  <rect x="60" y="320" width="1080" height="1" fill="#2b2118"></rect>
-  <rect x="60" y="326" width="1080" height="2.5" fill="#2b2118"></rect>
+  <rect x="100" y="48" width="1000" height="1.5" fill="#1b3a5c" opacity="0.15"/>
+  <rect x="100" y="148" width="1000" height="1.5" fill="#1b3a5c" opacity="0.15"/>
+  <text x="600" y="96" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" font-size="36" fill="#0c1b2e" text-anchor="middle">A Developer &#183; A Designer &#183; Open to Hire</text>
+  <text x="600" y="128" font-family="ui-monospace, &#39;SF Mono&#39;, Menlo, monospace" font-size="14" fill="#2a5c8a" text-anchor="middle" letter-spacing="2">choudhariraj8055@gmail.com</text>
 </svg>
